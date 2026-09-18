@@ -40,6 +40,7 @@ dependencies:
   intl: ^0.19.0
   permission_handler: ^11.3.1
   flutter:
+  flutter:
     sdk: flutter
 
   # The following adds the Cupertino Icons font to your application.
